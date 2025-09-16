@@ -9,4 +9,8 @@ HTML, CSS (basic level)
 Progect 1 (in progress) 
 
 ### Certificates and tests:
--
+- "All-Russian It-dictation" (2025)
+
+## How to contact me:
+- Email: slim1718191@gmail.com
+- TG: later
